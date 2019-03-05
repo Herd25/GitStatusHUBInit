@@ -1,0 +1,25 @@
+* Instrucciones de Instalacion
+ - Solo descarga o clona este repositorio
+ - luego ejecuta un terminal en el directorio que descargaste
+ - y escribe make de manera utomatica se instalara el plugin en gedit
+ - Para su correcto funcionamiento te recomiendo tener instalado git y ssh en linux
+ - solo es compatible con entornos escritos en gtk
+ - en un futuro se ampliara mas gama de compatibilidad
+ - si tienes alguna duda o consulta de su funcionamiento puedes escribir en este medio o en mis redes sociales
+ - encontraras los enlaces en el Readme
+
+
+* Installation Instructions
+ - Only download or clone this repository
+ - then run a terminal in the directory that you downloaded
+ - and write make automatically the plugin will be installed in gedit
+ - For its correct operation I recommend you to have installed git and ssh in linux
+ - only compatible with environments written in gtk
+ - more compatibility range will be expanded in the future
+ - If you have any questions or queries about its operation, you can write in this medium or on my social networks
+ - you will find the links in the Readme
+
+
+Creado por Design&Programing.ec
+                                                    https://www.youtube.com/c/DesignPrograming
+Create by Design&Programing.ec
